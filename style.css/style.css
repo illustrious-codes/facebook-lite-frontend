@@ -515,7 +515,7 @@ section {
   .tobi1 span {
     position: absolute;
     font-size: 15px;
-    margin-top: 25vh;
+    /* margin-top: 25vh; */
   }
 
   .tobi2 {
@@ -532,7 +532,7 @@ section {
   .tobi2 span {
     position: absolute;
     font-size: 15px;
-    margin-top: 25vh;
+    /* margin-top: 25vh; */
   }
 
   .tobi3 {
@@ -549,7 +549,7 @@ section {
   .tobi3 span {
     position: absolute;
     font-size: 13px;
-    margin-top: 25vh;
+    /* margin-top: 25vh; */
   }
 
   .tobi4 {
@@ -566,7 +566,7 @@ section {
   .tobi4 span {
     position: absolute;
     font-size: 15px;
-    margin-top: 25vh;
+    /* margin-top: 25vh; */
   }
 
   .tobi5 {
@@ -583,7 +583,7 @@ section {
   .tobi5 span {
     position: absolute;
     font-size: 15px;
-    margin-top: 25vh;
+    /* margin-top: 25vh; */
   }
 
   .tobi6 {
@@ -600,7 +600,7 @@ section {
   .tobi6 span {
     position: absolute;
     font-size: 15px;
-    margin-top: 25vh;
+    /* margin-top: 25vh; */
   }
 
   .Fb2 {
@@ -671,7 +671,7 @@ section {
 
   .OGBaba {
     height: 50vh;
-    width: 47vh;
+    width: 48vh;
     padding-left: 10px;
   }
 
